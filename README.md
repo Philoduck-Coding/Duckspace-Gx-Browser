@@ -1,1 +1,1 @@
-![Bildbeschreibung](img/duckspacegx.png)
+![Bildbeschreibung](img:duckspacegx.png)
